@@ -1,6 +1,6 @@
 # Time Tracker
 
-Java (Maven) application for tracking time on the job
+Java (Maven) malik application for tracking time on the job
 
 ## Purpose
 
